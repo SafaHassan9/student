@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='stu.xsl'?>
+<student_details>
+<student>
+    <id>1</id>
+    <Name>Ann</Name>
+    <Dept>IT</Dept>
+    <Branch>NE</Branch>
+    <Address>AAA</Address>
+    <phoneno>123</phoneno>
+</student>
+<student>
+    <id>2</id>
+    <Name>Safa</Name>
+    <Dept>IT</Dept>
+    <Branch>NE</Branch>
+    <Address>SSS</Address>
+    <phoneno>231</phoneno>
+    
+</student>
+<student>
+   <id>3</id>
+    <Name>saranya</Name>
+    <Dept>IT</Dept>
+    <Branch>NE</Branch>
+    <Address>SAS</Address>
+    <phoneno>213</phoneno>
+    
+</student>
+<student>
+    <id>4</id>
+    <Name>Parvathy</Name>
+    <Dept>IT</Dept>
+    <Branch> NE</Branch>
+    <Address>PPP</Address>
+    <phoneno>456</phoneno>
+    
+</student>
+<student>
+    <id>5</id>
+    <Name>Monica</Name>
+    <Dept>IT</Dept>
+    <Branch> NE</Branch>
+    <Address>MMM</Address>
+    <phoneno>654</phoneno>
+    
+</student>
+</student_details>
